@@ -1,0 +1,19 @@
+{
+  "name": "hasInternetConnection",
+  "version": "0.0.1",
+  "description": "checks to see if there is an internet connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elliottheis/hasInternetConnection.git"
+  },
+  "author": "Elliot Theis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliottheis/hasInternetConnection/issues"
+  },
+  "homepage": "https://github.com/elliottheis/hasInternetConnection"
+}
